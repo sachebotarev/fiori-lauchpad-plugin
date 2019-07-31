@@ -1,0 +1,9 @@
+node_modules
+sapui5-sdk
+dist/
+.DS_Store
+.vscode/
+webapp/localService/mockdata/
+
+logs
+*.log
